@@ -57,7 +57,8 @@ Once your server is set up, you’ll access it remotely via SSH:
 - **For Linux/MacOS:** Open a terminal and connect with:
   ```bash
   ssh username@ip_address
-```
+  ```
+
 
 Or, if using an SSH key:
 
