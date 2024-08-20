@@ -9,37 +9,38 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Tyler Panelle # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A webpage devoted to documenting my projects and home labs. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to Tyler Panelle's personal webpage, where I document my journey as a cybersecurity engineer. This site serves as a comprehensive archive of my home projects, innovative labs, and technical explorations. Dive into detailed write-ups, step-by-step guides, and insights into the latest trends and challenges in cybersecurity, all through the lens of hands-on experimentation and continuous learning.
+
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tylerpanelle.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: tylerpanelle # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: TylerPanelle # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Tyler Panelle
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/TylerPanelle # change to your twitter homepage
+    - https://github.com/tylerpanelle # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -96,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1825221749706735616/90Ycy2eZ_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
