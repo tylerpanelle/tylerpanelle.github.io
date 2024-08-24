@@ -3,6 +3,8 @@ title: Linux Upskill Challenge Day 0
 date: 2024-08-20 12:00:00 -500
 categories: [homelab, linux]
 tags: [homelab,linux,learn,challenge]
+image:
+  path: /assets/img/posts/LinuxUpskillDay0/Linux-Logo.png
 ---
 
 # Linux Upskill Challenge - Day 0: Get Your Own Server
